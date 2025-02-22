@@ -1,0 +1,50 @@
+{
+  "moveContent": [
+    {
+      "id": 1,
+      "imgSrc": "move1.jpg",
+      "caption": "Make a Beat in Minutes with Move"
+    },
+    {
+      "id": 2,
+      "imgSrc": "move2.jpg",
+      "caption": "Your Move Questions, Answered"
+    },
+    {
+      "id": 3,
+      "imgSrc": "move3.jpg",
+      "caption": "Beat Breaking: How to Create a Jungle-Inspired Track on Ableton Move"
+    }
+  ],
+  "liveContent": [
+    {
+      "id": 1,
+      "imgSrc": "live1.jpg",
+      "caption": "Deena Abdelwahed on Roar"
+    },
+    {
+      "id": 2,
+      "imgSrc": "live2.jpg",
+      "caption": "Milan Ring on Granulator III"
+    },
+    {
+      "id": 3,
+      "imgSrc": "live3.jpg",
+      "caption": "Chelsea Warner on Chance Tools"
+    }
+  ],
+  "videosSrcs": [
+    {
+      "id": 1,
+      "src": "https://www.youtube.com/embed/QAUO-iXMUk4"
+    },
+    {
+      "id": 2,
+      "src": "https://www.youtube.com/embed/zWcPQ30OB24"
+    },
+    {
+      "id": 3,
+      "src": "https://www.youtube.com/embed/5SCWN8R9D4k"
+    }
+  ]
+}

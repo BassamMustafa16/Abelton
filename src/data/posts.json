@@ -1,0 +1,174 @@
+[
+  {
+    "id": 1,
+    "imgSrc": "post1.jpg",
+    "category": "Artists",
+    "caption": "Rachel K. Collier: Simplifying Creativity with Novation’s Launchkey MK4 and Ableton Live Lite",
+    "subCaption": "Discover Rachel K. Collier’s approach to streamlined music making with Novation’s Launchkey MK4 & Ableton Live Lite.",
+    "dateCreated": "2021-09-30",
+    "tags": ["Beat repeat", "Simpeler", "Novation", "Auto Filter"]
+  },
+  {
+    "id": 2,
+    "imgSrc": "post2.jpg",
+    "category": "Tutorials",
+    "caption": "Made in Ableton Live: Jakob Rau",
+    "subCaption": "See how producer and engineer Jakob Rau collaborates with friends – including Berlin-based singer-songwriter Lindy – and get a comprehensive look at his approach to arrangement and mixing.",
+    "dateCreated": "2021-09-29",
+    "tags": ["Voices", "RNB", "Arraning", "Eqing"]
+    
+  },
+  {
+    "id": 3,
+    "imgSrc": "post3.jpg",
+    "category": "Artists",
+    "caption": "Jon Hopkins: No Comfort Without Discomfort",
+    "subCaption": "An in-depth interview with Jon Hopkins as he breaks down and isolates component parts of his immersive album Ritual, plus discussion of his favorite hardware, software and Ableton Live features.",
+    "dateCreated": "2021-09-28",
+    "tags": ["Electronika", "Ambient", "United Kingdom", "London"]
+  },
+  {
+    "id": 4,
+    "imgSrc": "post4.jpg",
+    "category": "Tutorials",
+    "caption": "Discover Advanced Reharmonizing Techniques with Live 12.1's Auto Shift",
+    "subCaption": "Combine Auto Shift with Resonators to create this powerful reharmonizing Rack.",
+    "dateCreated": "2021-09-27",
+    "tags": ["Sound Design", "Resonators", "Live 12", "Auto Shift"]
+  },
+  {
+    "id": 5,
+    "imgSrc": "post5.jpg",
+    "category": "Artists",
+    "caption": "Henrique J. Paris & RS Produções: Mapping Batida’s Heritage",
+    "subCaption": "A look at the evolution of batida – an ever-evolving style of electronic music coming out of Portugal that fuses Angolan and other West African influences with sampling and beatmaking techniques. Plus, batida beatmakers RS Produções share a free selection of loops and beats.",
+    "dateCreated": "2021-09-26",
+    "tags": ["Angola", "Cabo Verde", "Guinea Bissau", "Portugal"]
+  },
+  {
+    "id": 6,
+    "imgSrc": "post6.jpg",
+    "category": "Artists",
+    "caption": "Alan Sparhawk: I Made This Beat",
+    "subCaption": "Alan Sparhawk of US indie legends Low talks about branching out into uncharted electronic territory on his debut solo album White Roses, My God.",
+    "dateCreated": "2021-09-25",
+    "tags": ["Electronika", "Live Performance", "United States Of America"]
+  },
+  {
+    "id": 7,
+    "imgSrc": "post7.jpg",
+    "category": "News",
+    "caption": "Going Deeper into Sound: Eight Standout Features, Videos and Tutorials from 2024",
+    "subCaption": "Wrap up 2024 by checking out some of our favorite tutorials, videos, and features from across the year, and head into 2025 with all the music-making inspiration you could wish for.",
+    "dateCreated": "2021-09-24",
+    "tags": ["Operator", "Live 12", "Doing Music", "Auto Shift"]
+  },
+  {
+    "id": 8,
+    "imgSrc": "post8.jpg",
+    "category": "Downloads",
+    "caption": "Download the Live Set of Polygonia’s New Track “Neon Oracle”",
+    "subCaption": "Munich-based artist Polygonia discusses the making of her new track, “Neon Oracle”, and her multidisciplinary approaches to music making.",
+    "dateCreated": "2021-09-23",
+    "tags": ["Sound Design", "Operator", "Wavetable", "Germany"]
+  },
+  {
+    "id": 9,
+    "imgSrc": "post9.jpg",
+    "category": "Downloads",
+    "caption": "Ben Lukas Boysen: Overdoing It Just Right",
+    "subCaption": "Erased Tapes artist Ben Lukas Boysen (aka Hecq) breaks down the gear, techniques and intention behind every track of his album Alta Ripa. Plus he shares the track “Quasar” as a free Ableton Live Project complete with audio stems.",
+    "dateCreated": "2021-09-22",
+    "tags": ["Electronica", "Modular", "Glue Compressor", "Synths"]
+  },
+  {
+    "id": 10,
+    "imgSrc": "post10.jpg",
+    "category": "Podcasts",
+    "caption": "Ebonie Smith on the Difference Between Engineers and Producers",
+    "subCaption": "Atlantic Records producer Ebonie Smith talks about the influence of cinema and the unique demands of working with poets and spoken-word artists.",
+    "dateCreated": "2021-09-21",
+    "tags": ["United States Of America", "Doing Music"]
+  },
+  {
+    "id": 11,
+    "imgSrc": "post11.jpg",
+    "category": "Tutorials",
+    "caption": "Make a Melodic House Track in 10 Minutes on Ableton Move",
+    "subCaption": "See how LNA uses Move’s built-in microphone, effects, and parameter automation to create interesting ideas quickly.",
+    "dateCreated": "2021-09-20",
+    "tags": ["House", "Move"]
+  },
+  {
+    "id": 12,
+    "imgSrc": "post12.jpg",
+    "category": "Tutorials",
+    "caption": "Making Practice Fun: Drumming on the Move with Rodi Kirk",
+    "subCaption": "To become a better musician, practice is essential, but it doesn't have to be boring. Rodi Kirk shares tips on incorporating rudiments into your daily routine, making practice more enjoyable – plus, get some free lessons from Melodics.",
+    "dateCreated": "2021-09-19",
+    "tags": ["Move"]
+  },
+  {
+    "id": 13,
+    "imgSrc": "post13.jpg",
+    "category": "Artists",
+    "caption": "Berlioz: The Tetris Method of Jazz-House",
+    "subCaption": "Jazz-house rising star Berlioz expounds on his production process, working with session musicians and balancing spontaneity with structure.",
+    "dateCreated": "2021-09-18",
+    "tags": ["House", "Brass", "Recording", "Jazz"]
+  },
+  {
+    "id": 14,
+    "imgSrc": "post14.jpg",
+    "category": "Artists",
+    "caption": "Upsammy: Crossing Strange Meridians",
+    "subCaption": "upsammy aka the Netherlands’ Thessa Torsig gives insights into the tools and processes she uses for her genre-defying electronic compositions. She also shares a selection of specially-crated audio loops, free to download.",
+    "dateCreated": "2021-09-17",
+    "tags": ["Techno", "Modular", "Operator", "Ambient"]
+  },
+  {
+    "id": 15,
+    "imgSrc": "post15.jpg",
+    "category": "Videos",
+    "caption": "See What You Can Do With Live 12.1 – Plus What’s New for Push",
+    "subCaption": "Check out Auto Shift, Drum Sampler and all of Live 12.1’s new additions – and what this latest update brings to Push.",
+    "dateCreated": "2021-09-16",
+    "tags": ["Push", "Limiter", "Saturator", "Push 3"]
+  },
+  {
+    "id": 16,
+    "imgSrc": "post16.jpg",
+    "category": "Podcasts",
+    "caption": "Chuck Sutton on Finding Your Voice with the Tools in Reach",
+    "subCaption": "Chuck Sutton talks about the hidden potential in Live's native devices, problem solving leading to new ideas and using technical tools for creative results.",
+    "dateCreated": "2021-09-15",
+    "tags": ["United States Of America", "Live 12", "Doing Music"]
+  },
+  {
+    "id": 17,
+    "imgSrc": "post17.jpg",
+    "category": "Tutorials",
+    "caption": "Beat Breaking: How to Create a Jungle-Inspired Track on Ableton Move",
+    "subCaption": "See how Side Brain builds a beat in under 20 minutes using Move's intuitive step sequencer, pads, and built-in effects.",
+    "dateCreated": "2021-09-14",
+    "tags": ["Sampling", "Jungle", "Move"]
+  },
+  {
+    "id": 18,
+    "imgSrc": "post18.jpg",
+    "category": "Videos",
+    "caption": "Your Move Questions, Answered",
+    "subCaption": "Head of Product Johannes Russ answers the most popular questions about Move from the Ableton Community.",
+    "dateCreated": "2021-09-13",
+    "tags": ["Move"]
+  },
+  {
+    "id": 19,
+    "imgSrc": "post19.jpg",
+    "category": "Podcasts",
+    "caption": "Emily Hopkins Explores the Harp Through Pedals and Pick-Ups",
+    "subCaption": "Harpist Emily Hopkins talks about her experimental approach to the harp, which she documents on her popular YouTube channel.",
+    "dateCreated": "2021-09-12",
+    "tags": ["Strings", "Doing Music"]
+  }
+]
