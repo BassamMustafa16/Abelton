@@ -1,4 +1,4 @@
-# 🎵 Ableton Clone (Vue 3)  
+<h1 align="center">🎵 Ableton Clone (Vue 3)</h1>
 
 This is a **self-made clone** of an existing website, built to test and improve my web development skills. The project is developed using **Vue 3** and includes functional pages and filtering features.  
 
