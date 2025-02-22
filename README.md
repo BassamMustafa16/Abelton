@@ -23,6 +23,30 @@ This is a **self-made clone** of an existing website, built to test and improve 
    ```
 
 2. **Install dependencies:**
-```sh
-npm install
-```
+   ```sh
+   npm install
+   ```
+3. Run the development server:
+   ```sh
+   npm run dev
+   ```
+4. Build for production:
+   ```sh
+   npm run build
+   ```
+   
+ ---
+
+   
+## 🚀 Deployment  
+This project is deployed using **GitHub Pages**. The `dist/` folder is published under the `gh-pages` branch to make the website accessible online.  
+
+## 📌 Technologies Used  
+- Vue 3  
+- HTML & CSS  
+- JavaScript  
+
+## 🎯 Purpose  
+This project was built as a **learning exercise** to practice frontend development skills, especially working with Vue 3.  
+
+If you have any feedback or suggestions, feel free to contribute or open an issue! 😊  
