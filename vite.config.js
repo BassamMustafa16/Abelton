@@ -17,5 +17,5 @@ export default defineConfig({
     },
   },
   // base: './',
-  base: '/Abelton2/'
+  base: '/Abelton/'
 })

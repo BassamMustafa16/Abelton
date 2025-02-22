@@ -1,29 +1,28 @@
-# Abelton
+# 🎵 Ableton Clone (Vue 3)  
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a **self-made clone** of an existing website, built to test and improve my web development skills. The project is developed using **Vue 3** and includes functional pages and filtering features.  
 
-## Recommended IDE Setup
+🔗 **Live Demo:** [Click here to visit the website](https://bassammustafa16.github.io/Abelton/)  
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+---
 
-## Customize configuration
+## 📌 Features  
+✅ **Home Page** - Styled and structured like the original website.  
+✅ **About Page** - Replicates the design and layout.  
+✅ **Blog Page** - Includes working filters for better navigation.  
+❌ **Other Pages** - Not all pages have been created since this is a clone for learning purposes.  
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+---
 
-## Project Setup
+## ⚡ Installation & Setup  
 
+1. **Clone the repository:**  
+   ```sh
+   git clone https://github.com/bassammustafa16/Abelton.git
+   cd Abelton
+   ```
+
+2. **Install dependencies:**
 ```sh
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
 ```
