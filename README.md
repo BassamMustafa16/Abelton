@@ -19,6 +19,8 @@ This is a **self-made clone** of an existing website, built to test and improve 
 1. **Clone the repository:**  
    ```sh
    git clone https://github.com/bassammustafa16/Abelton.git
+   ```
+   ```sh
    cd Abelton
    ```
 
